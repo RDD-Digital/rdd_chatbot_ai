@@ -1,11 +1,10 @@
 fastapi
 uvicorn
-langchain
-langchain-community
-langchain-core
-langchain-ollama
-python-multipart
 jinja2
+langchain>=0.1.17
+langchain-community
+langchain-ollama
 faiss-cpu
-pypdf
+python-multipart
 langdetect
+pypdf
