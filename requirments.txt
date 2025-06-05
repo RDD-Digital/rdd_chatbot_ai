@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+python-multipart
+jinja2
+faiss-cpu
+pypdf
+langdetect
