@@ -12,3 +12,4 @@ tiktoken
 pypdf
 python-multipart
 sentence-transformers>=2.2.2
+langchain-huggingface>=0.0.1
