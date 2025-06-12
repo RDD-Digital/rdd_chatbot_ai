@@ -10,7 +10,8 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
-from langchain.embeddings import HuggingFaceEmbeddings
+# nuovo import consigliato
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.prompts import PromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import CharacterTextSplitter
