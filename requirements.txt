@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+jinja2
+langdetect
+cloudflared
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+ollama
+tiktoken
+pypdf
+python-multipart
+

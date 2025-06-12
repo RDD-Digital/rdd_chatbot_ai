@@ -1,0 +1,1 @@
+hai un limite di 30 richieste di al minuto per garantire la massima efficienza dei nostri servizi
