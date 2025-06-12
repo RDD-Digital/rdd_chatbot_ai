@@ -11,4 +11,4 @@ ollama
 tiktoken
 pypdf
 python-multipart
-
+sentence-transformers>=2.2.2
